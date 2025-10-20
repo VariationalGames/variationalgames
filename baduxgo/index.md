@@ -1,6 +1,8 @@
 ---
 layout: default
 title: About Badux Go
+image: /img/7-board.png
+description: Badux is the same game as Go but played on a Hex board. Same elegant ruleset, but corners are different, living shapes are different, and kos don't exist.
 ---
 
 # About Badux Go
