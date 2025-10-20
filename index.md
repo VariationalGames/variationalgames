@@ -12,6 +12,10 @@ layout: default
   </div>
 </div>
 
+<div style="text-align: center; margin: 0 0 3rem 0;">
+  <a href="/baduxgo/" class="cta-button cta-tertiary">About Badux Go</a>
+</div>
+
 <div class="social-section">
   <h2 class="social-title">Connect With Us</h2>
   <p style="text-align: center; color: #7f8c8d;">Follow our journey and stay updated on the latest developments</p>

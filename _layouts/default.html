@@ -68,7 +68,7 @@
         
         .hero-section {
             text-align: center;
-            padding: 1rem 0 3rem 0;
+            padding: 1rem 0 1rem 0;
         }
         
         .hero-title {
@@ -116,10 +116,20 @@
             background: linear-gradient(135deg, #7289da 0%, #5865f2 100%);
             color: white;
         }
-        
+
         .cta-secondary:hover {
             transform: translateY(-2px);
             box-shadow: 0 6px 20px rgba(114,137,218,0.3);
+        }
+
+        .cta-tertiary {
+            background: linear-gradient(135deg, #27ae60 0%, #229954 100%);
+            color: white;
+        }
+
+        .cta-tertiary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(39,174,96,0.3);
         }
         
         .social-section {
@@ -193,14 +203,16 @@
 <body>
     <header>
         <div class="header-content">
-            <div class="header-logo-container">
-                <div class="header-logo-circle">
-                    <img src="img/komi.png" alt="Go Board" />
+            <a href="/" style="text-decoration: none; color: inherit;">
+                <div class="header-logo-container">
+                    <div class="header-logo-circle">
+                        <img src="/img/komi.png" alt="Go Board" />
+                    </div>
+                    <div class="header-logo-text">
+                        Variational Games
+                    </div>
                 </div>
-                <div class="header-logo-text">
-                    Variational Games
-                </div>
-            </div>
+            </a>
         </div>
     </header>
     
