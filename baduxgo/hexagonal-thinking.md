@@ -21,6 +21,8 @@ actually control territory is an extremely nuanced and complex calculation. This
 makes mastery of the game a lifelong journey, and every game played by two
 players, an intricate conversation.
 
+<div style="clear: both;"></div>
+
 ## Board Topology
 
 The Go board is square. The full-sized, 19 by 19 point board, can seem imposing.
