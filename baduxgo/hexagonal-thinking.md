@@ -116,7 +116,7 @@ wanted to handle anything but the most trivial variants.
 [OGS](https://online-go.com/) (Online Go Server) supports unusually-shaped, yet
 still-square, boards, and Rengo. But more likely than not, no existing Go server
 could support a non-trivial variant, such as four-player Go, or Go on a
-hexagonal board. Even a rectangular board could be hard to support.
+hexagonal board.
 
 With Badux Go, I am applying my decades of experience in software engineering to
 build a platform where new variants are anticipated, and easy to implement. This
