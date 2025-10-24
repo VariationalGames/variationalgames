@@ -66,7 +66,7 @@ fundamentals.
 
 ## External Resources
 
-- [baduxgo.com](http://baduxgo.com) - Play Badux Go online
+- [BaduxGo.com](http://baduxgo.com) - Play Badux Go online
 - [Discord Community](https://discord.gg/99C5gcTcrw) - Join discussions and find opponents
 - [YouTube Channel](https://www.youtube.com/@BaduxGoPlay) - Tutorials and gameplay
 - [Twitch Stream](https://www.twitch.tv/baduxgo) - Watch live games and commentary
