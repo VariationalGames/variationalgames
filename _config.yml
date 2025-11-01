@@ -5,6 +5,10 @@ url: "https://variationalgames.com"
 # Build settings
 markdown: kramdown
 
+# Plugins
+plugins:
+  - jekyll-sitemap
+
 # Exclude from processing
 exclude:
   - Gemfile
