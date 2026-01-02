@@ -352,6 +352,13 @@ that was just captured. In Badux, the geometry of the hex board means that simpl
 board position) still applies for theoretical edge cases, but in practice, you won't encounter ko
 fights in Badux.
 
+### A Learning Tool
+
+Because Badux eliminates hanes, cuts, and kos, it presents the core mechanics of Go in a simplified
+form. This makes Badux an excellent way to learn the fundamentals—capturing, life and death, and
+territory—without getting bogged down in some of Go's more complex tactical patterns. Once you're
+comfortable with Badux, transitioning to traditional Go becomes much easier.
+
 ---
 
 **Ready to play?** Visit [BaduxGo.com](https://baduxgo.com) to start a game, or
