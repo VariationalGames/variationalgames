@@ -41,7 +41,7 @@ players.
 
 If you want to learn more about traditional Go as well, check out the excellent
 resources at [Sensei's Library](https://senseis.xmp.net/), or watch [this
-beginner's guide](https://www.youtube.com/watch?v=xMshtO8h7RY) to understand the
+beginner's guide](https://www.youtube.com/watch?v=oZTdT8MQexk) to understand the
 fundamentals.
 
 <div style="clear: both;"></div>
