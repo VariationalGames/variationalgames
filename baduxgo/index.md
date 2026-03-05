@@ -77,6 +77,7 @@ fundamentals.
 
 - [BaduxGo.com](http://baduxgo.com) - Play Badux Go online
 - [Discord Community](https://discord.gg/99C5gcTcrw) - Join discussions and find opponents
+- [Badux Blog](https://badux.substack.com/) - Monthly updates and essays on game engineering
 - [YouTube Channel](https://www.youtube.com/@BaduxGoPlay) - Tutorials and gameplay
 - [Twitch Stream](https://www.twitch.tv/baduxgo) - Watch live games and commentary
 - [Ko-fi](https://ko-fi.com/baduxgo) - Support development
