@@ -1,0 +1,3 @@
+- in Markdown files, line length should not exceed 100 characters
+- remember how you made the png transparent. we will repeat this for all the rules images
+- remember our photo processing routine. also, the original images generally single-match this pattern: ~/Pictures/Screenshots/Screenshot\ from\ 2025-12-04\ *
