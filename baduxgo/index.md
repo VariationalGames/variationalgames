@@ -56,6 +56,15 @@ fundamentals.
 </div>
 
 <div style="margin: 0.75rem 0 1.5rem 0;">
+  <a href="/baduxgo/handicap-rules.html" style="text-decoration: none; color: inherit; display: block;">
+    <div style="padding: 1.5rem; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.2s ease, box-shadow 0.2s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)';">
+      <h3 style="margin-top: 0; margin-bottom: 0.5rem; color: #2c3e50;">Handicap Rules</h3>
+      <p style="margin: 0; color: #6c757d;">How handicap games work, and the reasoning behind the rules we chose.</p>
+    </div>
+  </a>
+</div>
+
+<div style="margin: 0.75rem 0 1.5rem 0;">
   <a href="/baduxgo/board-templates.html" style="text-decoration: none; color: inherit; display: block;">
     <div style="padding: 1.5rem; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.2s ease, box-shadow 0.2s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)';">
       <h3 style="margin-top: 0; margin-bottom: 0.5rem; color: #2c3e50;">Printable Board Templates</h3>
