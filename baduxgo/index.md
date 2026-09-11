@@ -89,6 +89,13 @@ fundamentals.
       <p style="margin: 0; color: #6c757d;">Discover the journey from childhood game designer to software engineer, and how decades of experience shaped the vision for variational games.</p>
     </div>
   </a>
+
+  <a href="/baduxgo/my-foray-into-graphic-design.html" style="text-decoration: none; color: inherit; display: block;">
+    <div style="padding: 1.5rem; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.2s ease, box-shadow 0.2s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0,0,0,0.1)';">
+      <h3 style="margin-top: 0; margin-bottom: 0.5rem; color: #2c3e50;">My Foray into Graphic Design</h3>
+      <p style="margin: 0; color: #6c757d;">Badux needs a new name. See the survey results, and compare design references for the three finalists: Lotus Go, Nexus Go and Flower Go.</p>
+    </div>
+  </a>
 </div>
 
 ## External Resources
